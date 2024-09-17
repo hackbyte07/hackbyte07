@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hackbyte07
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently student Pursuing ... Computer Science and Engineering
-- 💞️ I’m looking to collaborate on ...Android App Development
+- 💞️ I’m looking to collaborate on ...React, Remix js, MERN.
 - 📫 How to reach me ... aayushranahardi@gmail.com
 
 <!---
